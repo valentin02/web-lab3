@@ -1,0 +1,59 @@
+body {
+    padding-left: 7em;
+    padding-right: 7em;
+    padding-top: 1em;
+    font-family: Georgia, "Times New Roman", Times, serif;
+    color: #814343;
+    background-color: #cada3d
+}
+
+h2 {
+    padding-top: 1em;
+    font-family: Helvetica, Geneva, Arial, SunSans-Regular, sans-serif
+}
+
+h3 {
+    padding-top: 1em;
+    font-family: Helvetica, Geneva, Arial, SunSans-Regular, sans-serif
+}
+
+a:link {
+    color: white;
+}
+
+a:visited {
+    color: whitesmoke;
+}
+
+a:hover {
+    color: #00ff7f
+}
+
+a:active {
+    color: salmon
+}
+
+p {
+    line-height: 1.5
+}
+
+.header-h2 h2 {
+    padding-top: 2.125rem;
+    padding-bottom: 2.125rem;
+    border-top: .125rem solid #814343;
+    border-bottom: .125rem solid #814343;
+    font-size: 1.5rem;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.btn-group {
+    margin-top: 2em;
+    padding-bottom: 2em;
+}
+
+.row {
+    padding-top: 1em;
+    margin-left: 15em;
+    margin-right: 15em;
+}
